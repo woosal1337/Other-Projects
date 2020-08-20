@@ -1,0 +1,3 @@
+D:/All Projects/TripleX/cmake-build-debug/CMakeFiles/TripleX.dir
+D:/All Projects/TripleX/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/All Projects/TripleX/cmake-build-debug/CMakeFiles/rebuild_cache.dir

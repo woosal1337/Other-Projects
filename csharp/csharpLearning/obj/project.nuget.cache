@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CHS/t+gfR26bNJr7NJupHredZsyDjPkZkeg6xmCp0/txe0fDU+tRZTbPeI/nrTaJ7u7JUYz9BGDg4+H4ddJvsA==",
+  "success": true,
+  "projectFilePath": "D:\\All Projects\\csharp\\csharpLearning\\csharpLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\woosal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

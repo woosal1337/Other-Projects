@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Apps/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.26.28801/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.26.28806 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.26.28806.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Coding/All Projects/SnakeGame/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Apps/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.26.28801/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.26.28806 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.26.28806.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Coding/All Projects/SnakeGame/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Coding/All Projects/SnakeGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_b7659\fast && 	"D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_b7659.dir\build.make /nologo -L                  CMakeFiles\cmTC_b7659.dir\build
+Building C object CMakeFiles/cmTC_b7659.dir/testCCompiler.c.obj
+	"D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\cl.exe" @C:\Users\woosal\AppData\Local\Temp\nm2D97.tmp
+testCCompiler.c
+Linking C executable cmTC_b7659.exe
+	D:\Apps\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_b7659.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests  -- "D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_b7659.dir\objects1.rsp @C:\Users\woosal\AppData\Local\Temp\nm2F0F.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Coding/All Projects/SnakeGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_fbd14\fast && 	"D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_fbd14.dir\build.make /nologo -L                  CMakeFiles\cmTC_fbd14.dir\build
+Building C object CMakeFiles/cmTC_fbd14.dir/CMakeCCompilerABI.c.obj
+	"D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\cl.exe" @C:\Users\woosal\AppData\Local\Temp\nm345E.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_fbd14.exe
+	D:\Apps\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_fbd14.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests  -- "D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_fbd14.dir\objects1.rsp @C:\Users\woosal\AppData\Local\Temp\nm34AD.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Coding/All Projects/SnakeGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_0d971\fast && 	"D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_0d971.dir\build.make /nologo -L                  CMakeFiles\cmTC_0d971.dir\build
+Building CXX object CMakeFiles/cmTC_0d971.dir/testCXXCompiler.cxx.obj
+	"D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\cl.exe" @C:\Users\woosal\AppData\Local\Temp\nm36BF.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_0d971.exe
+	D:\Apps\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_0d971.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests  -- "D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_0d971.dir\objects1.rsp @C:\Users\woosal\AppData\Local\Temp\nm370E.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Coding/All Projects/SnakeGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a1de8\fast && 	"D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_a1de8.dir\build.make /nologo -L                  CMakeFiles\cmTC_a1de8.dir\build
+Building CXX object CMakeFiles/cmTC_a1de8.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\cl.exe" @C:\Users\woosal\AppData\Local\Temp\nm3921.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_a1de8.exe
+	D:\Apps\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_a1de8.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests  -- "D:\Apps\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_a1de8.dir\objects1.rsp @C:\Users\woosal\AppData\Local\Temp\nm3970.tmp
+
+
+
